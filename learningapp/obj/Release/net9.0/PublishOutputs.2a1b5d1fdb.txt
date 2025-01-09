@@ -1,0 +1,7 @@
+/Users/frankyang/Desktop/udemy az-204/tmp2/learningapp/bin/Publish/learningapp
+/Users/frankyang/Desktop/udemy az-204/tmp2/learningapp/bin/Publish/appsettings.Development.json
+/Users/frankyang/Desktop/udemy az-204/tmp2/learningapp/bin/Publish/appsettings.json
+/Users/frankyang/Desktop/udemy az-204/tmp2/learningapp/bin/Publish/learningapp.dll
+/Users/frankyang/Desktop/udemy az-204/tmp2/learningapp/bin/Publish/learningapp.deps.json
+/Users/frankyang/Desktop/udemy az-204/tmp2/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/frankyang/Desktop/udemy az-204/tmp2/learningapp/bin/Publish/learningapp.pdb
